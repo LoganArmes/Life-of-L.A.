@@ -11,3 +11,10 @@ footer {
 background: url(../images/PinkFog.jpg);
 padding: 30px; 
 }
+nav {
+padding: 20px;
+}
+img {
+   display: block;
+   margin: 25px auto;
+}
